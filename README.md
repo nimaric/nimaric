@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on a Roblox Game
+🌱 I’m currently learning HTML and CSS
+⚡ Fun fact: print("Fun Fact!")
 <!--
 **nimaric/nimaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
