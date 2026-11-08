@@ -1,4 +1,12 @@
 ## Hi there 👋
+| Topic | Formula | Subject |
+| :--- | :---: | ---: |
+| Sensible Heat | $$Q = m \cdot c \cdot \Delta T$$ | Chemistry |
+| Latent Heat | $$Q = m \cdot L$$ | Chemistry |
+| Pythagorean Theorem | $$a^2+b^2=c^2$$ | Geometry |
+| Quadratic | $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$ | Algebra |
+| Difference of Squares | $$a^2-b^2 = (a-b)(a+b)$$ | Algebra |
+
 <!--
 **nimaric/nimaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
