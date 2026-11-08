@@ -1,4 +1,6 @@
 ## Hi there 👋
+**SpecificHeat** should be incinerated lowkey.
+
 | Topic | Formula | Subject |
 | :--- | :---: | ---: |
 | Sensible Heat | $$Q = m \cdot c \cdot \Delta T$$ | Chemistry |
