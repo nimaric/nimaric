@@ -12,6 +12,7 @@ should be incinerated lowkey.
 - commit .env files to GitHub
 - commit directly on the main (I'm looking at you, SpecificHeat author)
 - git push --force
+- finish my book :3
 
 ---
 **Super Scary Formulas**
