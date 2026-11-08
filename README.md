@@ -1,6 +1,20 @@
 ## Hi there 👋
-**SpecificHeat** should be incinerated lowkey.
+**SpecificHeat**
 
+---
+should be incinerated lowkey.
+
+**Things to do...**
+- alt + f4
+- sudo rm -rf /
+- Control + Command + Power Button
+- Rely on autosave for my games
+- commit .env files to GitHub
+- commit directly on the main (I'm looking at you, SpecificHeat author)
+- git push --force
+
+---
+**Super Scary Formulas**
 | Topic | Formula | Subject |
 | :--- | :---: | ---: |
 | Sensible Heat | $$Q = m \cdot c \cdot \Delta T$$ | Chemistry |
